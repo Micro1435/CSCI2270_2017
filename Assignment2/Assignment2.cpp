@@ -8,7 +8,7 @@
 using namespace std;
 
 struct Words {
-    string word;
+    string word; 
     int wordCount;
 };
 

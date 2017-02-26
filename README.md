@@ -8,3 +8,9 @@ Word Analysis
 
 ### Assignment 3
 Word Analysis with Classes
+
+### Assignment 4
+Linked List
+
+### Assignemnt 5
+Doubly Linked List

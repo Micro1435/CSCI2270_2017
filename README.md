@@ -17,3 +17,9 @@ Doubly Linked List
 
 ### Assignment 6
 Circular Queue
+
+### Assignment 7
+3 sample questions through Code Runner
+
+### Assignment 8
+Binary Tree
